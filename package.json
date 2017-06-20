@@ -19,9 +19,7 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "jsdom": "^9.4.0",
-    "paper": "git+https://github.com/pm5/paper.js.git",
-    "source-map-support": "^0.4.0"
+    "paper": "git+https://github.com/pm5/paper.js.git"
   },
   "keywords": [
     "vector",
